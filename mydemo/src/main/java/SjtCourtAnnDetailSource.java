@@ -41,6 +41,7 @@ public class SjtCourtAnnDetailSource {
 	private QueryApiSource queryApiSource;
 	/**
 	 * 法院公告详情处理逻辑
+	 * >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 	 * @param sjtCourtAnnDetail
 	 * @return
 	 */
